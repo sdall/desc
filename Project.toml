@@ -1,0 +1,8 @@
+name = "Desc"
+uuid = "413f6d45-f8bc-46f9-a70c-567fbcfb279c"
+authors = ["Sebastian Dalleiger <sdalleig@mpi-inf.mpg.de>"]
+version = "0.1.0"
+
+[deps]
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+ThreadsX = "ac1d9e8a-700a-412c-b207-f0111f4b6c0d"
